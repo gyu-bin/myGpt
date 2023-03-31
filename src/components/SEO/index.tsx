@@ -2,7 +2,7 @@ import { NextSeo } from 'next-seo';
 
 const DEFAULT_TITLE = '문규빈 | FE개발자 | 무엇이든 물어보세요!';
 const DEFAULT_DESCRIPTION =
-  '문규빈처럼 생각하고 말하는 가상비서입니다! 정재욱에 관해 무엇이든 물어보세요!';
+  '문규빈처럼 생각하고 말하는 가상비서입니다! 문규에 관해 무엇이든 물어보세요!';
 
 const SEO = () => {
   return (
@@ -19,7 +19,7 @@ const SEO = () => {
       title={DEFAULT_TITLE}
       defaultTitle={DEFAULT_TITLE}
       description={DEFAULT_DESCRIPTION}
-      canonical="https://gpt-secretary.vercel.app/"
+      canonical="https://gyu-bin.github.io/myGpt.github.io"
     />
   );
 };
