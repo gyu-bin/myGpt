@@ -1,0 +1,9 @@
+# Open AI를 이용한 [저에 대해 무엇이든 물어보세요!](https://gyu-bin.github.io/myGpt.github.io)
+
+## 소개
+
+### Open AI를 이용하여 `문규빈`에 대해 질문할 수 있는 공간입니다.
+### Open AI를 stream으로 Next.js의 edge와 함께 처리하였습니다.
+### 모바일화면을 기준으로 제작하였으면 `PWA`로 처리하여 다운로드하여 사용할 수 있습니다.
+### 백엔드 서버 없이 next.js의 edge api를 활용해 요청을 보냅니다.
+### zustand를 이용해 간단한 상태관리를 처리합니다.
